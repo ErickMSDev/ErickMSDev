@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ErickMSDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ErickMSDev/ErickMSDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Erick Muñoz
+- 👀 I’m interested in programming, music and barbecues and amusement parks.
+- 🌱 I’m currently learning german and english.
+- 💞️ I’m looking to collaborate on companies with a high technical level in programming and a good work environment.
+- 📫 You can contact me at erick.ms.dev@gmail.com or at the number +447455431669
