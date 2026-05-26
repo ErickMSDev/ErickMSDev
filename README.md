@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming, music and barbecues and amusement parks.
 - 🌱 I’m currently learning german and english.
 - 💞️ I’m looking to collaborate on companies with a high technical level in programming and a good work environment.
-- 📫 You can contact me at erick.ms.dev@gmail.com or at the number +447455431669
+- 📫 You can contact me at erick.ms.dev@gmail.com
